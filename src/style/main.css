@@ -1,0 +1,4 @@
+@import "element-plus/theme-chalk/index.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
